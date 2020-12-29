@@ -4,7 +4,7 @@
 
 ### \_As a codign boot camp student i wante to create a timed quiz on JS fundamentals. This quiz will store all high scoresa using local storage.
 
-#![Demo](./assets/images/Challeng.gif)
+![Demo](./assets/images/Challeng.gif)
 Currently depolyed at [GitHub Pages](https://mrjacoughlin.github.io/Coding-Quiz-Challenge/.)
 
 ---
